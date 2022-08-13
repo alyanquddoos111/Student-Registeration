@@ -1,0 +1,25 @@
+c:\users\191163\documents\visual studio 2012\Projects\signup_login\DAL\bin\Debug\DAL.dll
+c:\users\191163\documents\visual studio 2012\Projects\signup_login\DAL\bin\Debug\DAL.pdb
+c:\users\191163\documents\visual studio 2012\Projects\signup_login\DAL\bin\Debug\Entity.dll
+c:\users\191163\documents\visual studio 2012\Projects\signup_login\DAL\bin\Debug\Entity.pdb
+c:\users\191163\documents\visual studio 2012\Projects\signup_login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\191163\documents\visual studio 2012\Projects\signup_login\DAL\obj\Debug\DAL.dll
+c:\users\191163\documents\visual studio 2012\Projects\signup_login\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\bin\Debug\Entity.dll
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\191076_N-Tier\signup_login\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\bin\Debug\Entity.dll
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\191076_191067_Project\StudentRegisteration\DAL\obj\Debug\DAL.pdb
